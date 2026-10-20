@@ -62,7 +62,7 @@ A full-stack, mobile-first e-commerce web application for a baby essentials bran
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/babyja876.git
+git clone https://github.com/shemthom31/babyja876.git
 cd babyja876
 
 # 2. Install dependencies
